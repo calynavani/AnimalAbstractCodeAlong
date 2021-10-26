@@ -1,0 +1,14 @@
+C:\Users\CGreene1\source\repos\AnimalAbstractCodeAlong\AnimalAbstractCodeAlong\bin\Debug\netcoreapp3.1\AnimalAbstractCodeAlong.exe
+C:\Users\CGreene1\source\repos\AnimalAbstractCodeAlong\AnimalAbstractCodeAlong\bin\Debug\netcoreapp3.1\AnimalAbstractCodeAlong.deps.json
+C:\Users\CGreene1\source\repos\AnimalAbstractCodeAlong\AnimalAbstractCodeAlong\bin\Debug\netcoreapp3.1\AnimalAbstractCodeAlong.runtimeconfig.json
+C:\Users\CGreene1\source\repos\AnimalAbstractCodeAlong\AnimalAbstractCodeAlong\bin\Debug\netcoreapp3.1\AnimalAbstractCodeAlong.runtimeconfig.dev.json
+C:\Users\CGreene1\source\repos\AnimalAbstractCodeAlong\AnimalAbstractCodeAlong\bin\Debug\netcoreapp3.1\AnimalAbstractCodeAlong.dll
+C:\Users\CGreene1\source\repos\AnimalAbstractCodeAlong\AnimalAbstractCodeAlong\bin\Debug\netcoreapp3.1\AnimalAbstractCodeAlong.pdb
+C:\Users\CGreene1\source\repos\AnimalAbstractCodeAlong\AnimalAbstractCodeAlong\obj\Debug\netcoreapp3.1\AnimalAbstractCodeAlong.csproj.AssemblyReference.cache
+C:\Users\CGreene1\source\repos\AnimalAbstractCodeAlong\AnimalAbstractCodeAlong\obj\Debug\netcoreapp3.1\AnimalAbstractCodeAlong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CGreene1\source\repos\AnimalAbstractCodeAlong\AnimalAbstractCodeAlong\obj\Debug\netcoreapp3.1\AnimalAbstractCodeAlong.AssemblyInfoInputs.cache
+C:\Users\CGreene1\source\repos\AnimalAbstractCodeAlong\AnimalAbstractCodeAlong\obj\Debug\netcoreapp3.1\AnimalAbstractCodeAlong.AssemblyInfo.cs
+C:\Users\CGreene1\source\repos\AnimalAbstractCodeAlong\AnimalAbstractCodeAlong\obj\Debug\netcoreapp3.1\AnimalAbstractCodeAlong.csproj.CoreCompileInputs.cache
+C:\Users\CGreene1\source\repos\AnimalAbstractCodeAlong\AnimalAbstractCodeAlong\obj\Debug\netcoreapp3.1\AnimalAbstractCodeAlong.dll
+C:\Users\CGreene1\source\repos\AnimalAbstractCodeAlong\AnimalAbstractCodeAlong\obj\Debug\netcoreapp3.1\AnimalAbstractCodeAlong.pdb
+C:\Users\CGreene1\source\repos\AnimalAbstractCodeAlong\AnimalAbstractCodeAlong\obj\Debug\netcoreapp3.1\AnimalAbstractCodeAlong.genruntimeconfig.cache
